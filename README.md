@@ -1,9 +1,10 @@
 <div align="center">
   <a href="https://git.io/typing-svg" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=90B302center=true&vCenter=true&width=435&lines=Hi!+My+name+is+Vitor Hugo!;Welcome." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=90B302center=true&vCenter=true&width=435&lines=Hi!+My+name+is+Vitor_Hugo!;Welcome." alt="Typing SVG" />
   </a>
 </div>
 
+**`Estudante de Ciências da Computação | Aspirante a Desenvolvedor Full Stack`**
 
 Me chamo Vitor Hugo, tenho 20 anos e sou natural de Uberlândia, MG. Atualmente, sou estudante de Ciências da Computação, onde estou explorando diferentes áreas da tecnologia, como programação, desenvolvimento web e muito mais. Sou apaixonado por criar soluções e compartilhar conhecimento, e estou sempre em busca de melhorar minhas habilidades técnicas. Acredito que a programação é uma ferramenta poderosa e estou trabalhando para me tornar um desenvolvedor Full Stack.
 
