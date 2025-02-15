@@ -4,7 +4,6 @@
   </a>
 </div>
 
-**`Estudante de Ciências da Computação | Aspirante a Desenvolvedor Full Stack`**
 
 Me chamo Vitor Hugo, tenho 20 anos e sou natural de Uberlândia, MG. Atualmente, sou estudante de Ciências da Computação, onde estou explorando diferentes áreas da tecnologia, como programação, desenvolvimento web e muito mais. Sou apaixonado por criar soluções e compartilhar conhecimento, e estou sempre em busca de melhorar minhas habilidades técnicas. Acredito que a programação é uma ferramenta poderosa e estou trabalhando para me tornar um desenvolvedor Full Stack.
 
